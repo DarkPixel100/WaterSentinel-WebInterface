@@ -1,0 +1,7 @@
+[
+  { "name": "Jan", "prod1": 400, "prod2": 2400, "prod3": 2400 },
+  { "name": "Feb", "prod1": 410, "prod2": 2300, "prod3": 2000 },
+  { "name": "Mar", "prod1": 490, "prod2": 1900, "prod3": 800 },
+  { "name": "Apr", "prod1": 390, "prod2": 2900, "prod3": 200 },
+  { "name": "May", "prod1": 290, "prod2": 1400, "prod3": 1700 }
+]

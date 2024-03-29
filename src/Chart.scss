@@ -1,0 +1,14 @@
+@import "./App.scss";
+
+.custom-tooltip {
+    background-color: $baseColor;
+    color: $secondaryColor;
+    padding: .5em;
+    border-radius: 7px;
+    .Info {
+        text-align: left;
+    }
+    p {
+        margin: 0;
+    }
+}
