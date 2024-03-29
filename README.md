@@ -2,7 +2,7 @@
 
 This project is a frontend web interface projected to fetch data from a server connected to the Sentinel and then display it in a readable format.
 
-#ReactJS
+# ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
